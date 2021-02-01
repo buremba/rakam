@@ -71,7 +71,7 @@
         <air.version>0.158</air.version>
         <presto.version>0.190</presto.version>
         <java.version>1.8</java.version>
-        <jackson.version>2.8.1</jackson.version>
+        <jackson.version>2.12.1</jackson.version>
         <aws.library>1.11.272</aws.library>
         <netty.rest.version>0.107</netty.rest.version>
         <swagger.version>1.5.16</swagger.version>
